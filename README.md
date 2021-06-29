@@ -1,4 +1,4 @@
-Backend-практикум от Tados
+Проект сделан на основе Backend-практикума от Tados
 ==========================
 
 Описание предметной области
@@ -39,11 +39,3 @@ Backend-практикум от Tados
 ```dotnet run```
 
 После чего приложение будет развёрнуто по адресу [http://localhost:5000](http://localhost:5000).
-
-Полезные ссылки
----------------
-
-1. [Сервер Discord](https://discord.gg/PHCHV5n) (обсуждения)
-1. [Чат в Telegram](https://t.me/dotnet_prm) (для вопросов и решений)
-1. [Канал YouTube](https://www.youtube.com/channel/UCuWxuYKNP1shS3OLKlZwGIw) (записи практикума)
-1. [Паблик Tados ВК](https://vk.com/tados_life) (анонсы митапов)
